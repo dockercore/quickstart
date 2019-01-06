@@ -1,4 +1,4 @@
-#使用beego开发简单开发简单注册登录功能
+使用beego开发简单开发简单注册登录功能
 
 1.登录mysql建立数据库 create database   test5;
 
